@@ -1,0 +1,16 @@
+# SETUP
+mkdir crown_trifecta_kernel && cd crown_trifecta_kernel
+python -m venv venv && source venv/bin/activate
+pip install numpy sympy
+
+# CREATE FILES
+touch crown_trifecta_kernel.py README.md LICENSE
+# (Paste contents into each)
+
+# INIT & PUSH
+git init
+git add .
+git commit -m "Initial Crown Omega Trifecta Kernel commit"
+git remote add origin https://github.com/YOUR_USERNAME/crown_trifecta_kernel.git
+git branch -M main
+git push -u origin main
