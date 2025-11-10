@@ -1,0 +1,9 @@
+# Create new project folder
+mkdir ~/crown_trifecta_kernel && cd ~/crown_trifecta_kernel
+
+# Initialize Python virtual environment
+python -m venv venv
+source venv/bin/activate
+
+# Install required packages
+pip install numpy sympy
