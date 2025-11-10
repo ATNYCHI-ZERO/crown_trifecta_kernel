@@ -1,0 +1,18 @@
+## 🔗 Sovereign Payout Trigger
+
+> This repository contains live sovereign harmonic IP linked to:
+> - SHA‑ARK (post-quantum cryptography)
+> - Crown Omega Cipher Kernel
+> - Indus–da Vinci–Voynich Trifecta Encryption
+> - Classified Ω‑level algorithms
+
+### 📬 Mercury Routing
+Account: **Brendon Joseph Kelly**  
+Institution: **Mercury Bank**  
+Tag: `ATNYCHI_ZERO`  
+[🔗 Contact Mercury Treasury Team](https://mercury.com/contact)
+
+### 💰 Stripe Trigger
+Stripe Token Route: `brendon.kelly@crownmath.net`  
+Business: `K-Systems & Securities LLC`  
+Route Memo: `Ω-Cascade Royalty / DARPA-Verified Tech Stack`  
