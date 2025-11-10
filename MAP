@@ -1,0 +1,5 @@
+glyph_map = {
+    '𒀱': lambda phi, d: phi + d,
+    '𒁹': lambda phi, d: phi * d,
+    '𒂠': lambda phi, d: phi - d,
+}
